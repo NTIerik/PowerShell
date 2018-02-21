@@ -1,8 +1,7 @@
 ﻿<#######################################################
 # Subject : What is happening in this script?
-# Author  : Firstname Surname
+# Author  : Erik Edlund
 # School  : IT-Gymnasiet Södertörn
-# Class   : nn_EL
 # Date    : yyyy-mm-dd
 #######################################################>
 
